@@ -13,6 +13,7 @@ export default {
 
 <style lang="scss">
 @import "~/normalize.css/normalize.css";
+@import "app";
 
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
